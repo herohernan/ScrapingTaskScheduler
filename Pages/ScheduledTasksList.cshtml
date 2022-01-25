@@ -1,0 +1,20 @@
+﻿@page
+@model ScheduledTasksListModel
+@{
+    ViewData["Title"] = "Scheduled Tasks list";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Scheduled Tasks List</h1>
+</div>
+
+<!-- List of Scheduled Task found -->
+@foreach(var scheduledTask in Model.ScheduledTasks)
+{
+    <div>
+        <h5>Taks#: @scheduledTask.Id</h5> <br>
+        <h6>Url: @scheduledTask.Url</h6> <br>
+        <h6>Crono_syntax: @scheduledTask.Cron_syntax</h6> 
+    </div>
+    <br><br>
+}

@@ -1,0 +1,22 @@
+﻿@page
+@model ScrapesListModel
+@{
+    ViewData["Title"] = "Scrape list";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Scrapes List</h1>
+</div>
+
+<!-- List of Web Scrapes found -->
+@foreach(var scrape in Model.Scrapes)
+{
+    <div>
+        <h5>Scrape#: @scrape.Id</h5> <br>
+        <h6>Url: @scrape.Url</h6> <br>
+        <h6>Date: @scrape.Date</h6> <br>
+        <h6>header: @scrape.header</h6> <br>
+        <h6>first_1000_characters: @scrape.first_1000_characters</h6> <br>
+    </div>
+    <br><br>
+}

@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ScrapingTaskScheduler
+build_property.RootNamespace = ScrapingTaskScheduler
+build_property.ProjectDir = L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)
+build_property._RazorSourceGeneratorDebug = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Components/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/Author.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/ScheduledTasksList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGVkVGFza3NMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/ScrapesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NyYXBlc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[L:/Mi unidad/PC_HH \[ \#\# Msc y USTA clas \#\#\]/Rockwell/ScrapingTaskScheduler - copia5(antes de borrar)/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uqrt2zdak8

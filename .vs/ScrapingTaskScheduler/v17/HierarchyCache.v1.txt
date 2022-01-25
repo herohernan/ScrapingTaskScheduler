@@ -1,0 +1,274 @@
+﻿++Solución "ScrapingTaskScheduler" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:ScrapingTaskScheduler.sln
+++ScrapingTaskScheduler
+i:{00000000-0000-0000-0000-000000000000}:ScrapingTaskScheduler
+++Connected Services 
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:>353
+++No se detectaron dependencias de servicio
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:>354
+++Dependencias
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:>352
+++Analizadores
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:analizadores
+++Microsoft.AspNetCore.Analyzers
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Marcos de trabajo
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:marcos de trabajo
+++Paquetes
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:paquetes
+++Quartz (3.3.3)
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:>374
+++Properties
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\properties\
+++launchSettings.json
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\properties\launchsettings.json
+++wwwroot
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\
+++css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\css\
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\
+++data
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\data\
+++scheduledTasks.json
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\data\scheduledtasks.json
+++scrapes.json
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\data\scrapes.json
+++js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\js\
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\
+++favicon.ico
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\favicon.ico
+++Controllers
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\controllers\
+++ScheduledTasksController.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\controllers\scheduledtaskscontroller.cs
+++ScrapesController.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\controllers\scrapescontroller.cs
+++Models
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\models\
+++MyJobs.cs
+++ScheduledTask.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\models\scheduledtask.cs
+++ScheduleTask_RequestBody.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\models\scheduletask_requestbody.cs
+++Scrape.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\models\scrape.cs
+++Scrape_RequestBody.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\models\scrape_requestbody.cs
+++Pages
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\
+++Shared
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\shared\
+++_Layout.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\shared\_layout.cshtml.css
+++_ValidationScriptsPartial.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\_viewstart.cshtml
+++Author.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\author.cshtml
+++Error.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\error.cshtml
+++Index.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\index.cshtml
+++ScheduledTasksList.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\scheduledtaskslist.cshtml
+++ScrapesList.cshtml
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\scrapeslist.cshtml
+++Services
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\services\
+++JsonFileScheduledTaskService.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\services\jsonfilescheduledtaskservice.cs
+++JsonFileScrapeService.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\services\jsonfilescrapeservice.cs
+++appsettings.json
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\appsettings.json
+++Program.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\program.cs
+++Microsoft.AspNetCore.App
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\microsoft.netcore.app
+++site.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\css\site.css
+++site.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\js\site.js
+++bootstrap
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\
+++jquery
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery\
+++jquery-validation
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation-unobtrusive\
+++Author.cshtml.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\author.cshtml.cs
+++Error.cshtml.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\index.cshtml.cs
+++ScheduledTasksList.cshtml.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\scheduledtaskslist.cshtml.cs
+++ScrapesList.cshtml.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\pages\scrapeslist.cshtml.cs
+++appsettings.Development.json
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\appsettings.development.json
+++dist
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery\dist\
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery\license.txt
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++QuartzService.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\services\quartzservice.cs
+++Jobs.cs
+++IndexController.cs
+++Job.cs
+++HomeController.cs
+++QuartzJob.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\models\quartzjob.cs
+++ScrapeServicecs.cs
+++ScrapySharp (3.0.0)
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:>443
+++ScrapeService.cs
+++ScrapySharpService.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\services\scrapysharpservice.cs
+++ScrapySharp.cs
+i:{81c8b8c0-7646-4614-81bb-9000551a05a1}:l:\mi unidad\pc_hh [ ## msc y usta clas ##]\rockwell\scrapingtaskscheduler\models\scrapysharp.cs

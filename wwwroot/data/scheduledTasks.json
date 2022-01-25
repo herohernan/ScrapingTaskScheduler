@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "url_source": "http://www.ifdfadkdfjlasfj.edu.co",
+    "Cron_syntax": "0/20 * * ? * * *"
+  },
+  {
+    "Id": 2,
+    "url_source": "http://www.ustabuca.edu.co/",
+    "Cron_syntax": "0/30 * * ? * * *"
+  },
+  {
+    "Id": 3,
+    "url_source": "https://www.dimonex.co/",
+    "Cron_syntax": "0/40 * * ? * * *"
+  }
+]

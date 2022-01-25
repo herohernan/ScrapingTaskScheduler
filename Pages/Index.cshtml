@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Scraping Task Scheduler</h1>
+</div>
+
+<!-- New Scheduled Task -->
+<form action="/api/scheduledtasks/post2" method="get" target="_blank">  
+   <input type="url" name="urlSelected" placeholder="Put the URL" required> <br><br>
+   <input type="text" name="cronSyntax" placeholder="Action to do" required> <br><br>
+   <button type="submit"> Task#1 </button>    
+</form>
+
+<!-- Information -->
+<br><br>
+<div>
+    <p> <b> Task#1 = Scrap the header or the first 1000 characters of an URL Website </b> </p>
+    <p> What is it?: </p>
+    <p> The first task is to ping a website, scrape the headers (or first 1000 characters if the header doesn´t exist) and storage the result in a json file </p>
+    <p> Inputs: </p>
+    <p> - URL source to get the information (Web where we go to do the Scraping) </p>
+    <p> - Cron Syntax expression to program the task in a specific date and hour </p>
+    <p class="warning"> WARNING: ¡¡¡ the new scheduled task takes effect when the website is refreshed !!! </p>
+</div>

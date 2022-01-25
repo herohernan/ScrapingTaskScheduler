@@ -1,0 +1,120 @@
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.csproj.AssemblyReference.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.AssemblyInfoInputs.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.AssemblyInfo.cs
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.csproj.CoreCompileInputs.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.MvcApplicationPartsAssemblyInfo.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.RazorAssemblyInfo.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.RazorAssemblyInfo.cs
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\appsettings.Development.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\appsettings.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapingTaskScheduler.staticwebassets.runtime.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapingTaskScheduler.exe
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapingTaskScheduler.deps.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapingTaskScheduler.runtimeconfig.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ref\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapingTaskScheduler.pdb
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\staticwebassets.build.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\staticwebassets.development.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\scopedcss\bundle\ScrapingTaskScheduler.styles.css
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\scopedcss\projectbundle\ScrapingTaskScheduler.bundle.scp.css
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ref\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.pdb
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.genruntimeconfig.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\Quartz.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\obj\Debug\net6.0\ScrapingTaskScheduler.csproj.CopyComplete
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\FSharp.Core.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\HtmlAgilityPack.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapySharp.Core.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ScrapySharp.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\en\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.csproj.AssemblyReference.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.AssemblyInfoInputs.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.AssemblyInfo.cs
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.csproj.CoreCompileInputs.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.MvcApplicationPartsAssemblyInfo.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.RazorAssemblyInfo.cache
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.RazorAssemblyInfo.cs
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ref\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.pdb
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\appsettings.Development.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\appsettings.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapingTaskScheduler.staticwebassets.runtime.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapingTaskScheduler.exe
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapingTaskScheduler.deps.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapingTaskScheduler.runtimeconfig.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ref\ScrapingTaskScheduler.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapingTaskScheduler.pdb
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\FSharp.Core.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\HtmlAgilityPack.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\Quartz.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapySharp.Core.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ScrapySharp.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\en\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\staticwebassets.build.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\staticwebassets.development.json
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\scopedcss\bundle\ScrapingTaskScheduler.styles.css
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\scopedcss\projectbundle\ScrapingTaskScheduler.bundle.scp.css
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.csproj.CopyComplete
+L:\Mi unidad\PC_HH [ ## Msc y USTA clas ##]\Rockwell\ScrapingTaskScheduler - copia5(antes de borrar)\obj\Debug\net6.0\ScrapingTaskScheduler.genruntimeconfig.cache
